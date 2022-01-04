@@ -36,6 +36,9 @@ h1 {
     background-position: right;
     background-repeat: no-repeat;
 }
+#dream {
+    width: 90%;
+}
 .experience-area {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
